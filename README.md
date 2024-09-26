@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 <h3 align="center">Data has a story to tell, and I'm here to narrate it. 📊✨</h3>
 
-<img align="middle" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif">
+
+
+<p style="img-align:center;"> <img src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif" alt="LambdaTest"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi200014&label=Profile%20views&color=0e75b6&style=flat" alt="khushi200014" /> </p>
 
